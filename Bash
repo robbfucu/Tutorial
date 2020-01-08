@@ -1,0 +1,23 @@
+Reflexionar es fundamental para afirmar tus conocimientos, es necesario que analices lo aprendido y que escribas un documento explicado le a alguien que no tiene idea que es el bash...
+
+(*)
+
+¿Qué es el bash? es una aplicación que funciona como intérprete de comandos
+¿Qué es shell? es el intérprete de comandos o la términal
+¿Qué fue lo mas difícil sobre este tema? memorizar la función de cada comando
+¿Pudiste usar todos los comandos del bash? no
+En tu opinión, ¿cuales son los comandos mas importantes de aprender y por qué?
+los que  gestionan archivos y directorios, porque son los que mas se usan
+¿Puedes recordar para que son los siguientes comandos?
+
+pwd.- muestra el directorio en el cual se esta trabajando
+ls .- lista los contenidos de un directorio
+mv.- mueve o copia un archivo a un directorio, también puede renombrar
+cd.- permite moverse entre directorios
+../ .- retrocede al directorio anterior
+touch.- permite la modificación de permisos para un archivo
+mkdir.- crea un directorio
+less.- muestra el contenido de un archivo en menor exposición pero permite scrollear
+rmdir.- elimina un directorio
+rm.- forza la eliminación de un archivo
+help.- muestra la ayuda del terminal
